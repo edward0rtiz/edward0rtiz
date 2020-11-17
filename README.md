@@ -28,7 +28,7 @@ In my personal space I love to do ciclyng :bike:, climbing :goat: and travel :ai
 </details>
 
 <details>
-	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>Programmin Skills</b></summary>
+	<summary>:wrench:&nbsp;&nbsp;&nbsp;<b>Programming Skills</b></summary>
 	<br/>
   <img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
